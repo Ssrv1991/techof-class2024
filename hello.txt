@@ -1,1 +1,4 @@
 olá
+Meu primeiro arquivo no git
+Fiz uma alteração no arquivo
+vamos ver as alterações
